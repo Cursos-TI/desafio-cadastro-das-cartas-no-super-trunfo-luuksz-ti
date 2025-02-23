@@ -14,7 +14,7 @@ int main (){
     printf("Cidade: %s\n", &cidade);
     printf("População: %d\n", populacao);
     printf("Área em km: %.3fkm²\n", area);
-    printf("PIB: %f bilhões de reais\n", PIB);
+    printf("PIB: %.9f bilhões de reais\n", PIB);
     printf("Pontos turisticos: %d\n", turistico);
    
     printf("----------------\n");//apenas para separar cada carta
