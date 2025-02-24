@@ -9,9 +9,9 @@ int main (){
     float area = 900.000;
     float PIB = 3.000000000;
     int turistico = 50;
-    printf("Código: %s\n", &codigo);
-    printf("Estado: %s\n", &estado);
-    printf("Cidade: %s\n", &cidade);
+    printf("Código: %s\n", codigo);
+    printf("Estado: %s\n", estado);
+    printf("Cidade: %s\n", cidade);
     printf("População: %d\n", populacao);
     printf("Área em km: %.3fkm²\n", area);
     printf("PIB: %.9f bilhões de reais\n", PIB);
@@ -27,9 +27,9 @@ int main (){
     float area2 = 250.000;
     float PIB2 = 50.000;
     int turistico2 = 10;
-    printf("Código: %s\n", &codigo2);
-    printf("Estado: %s\n", &estado2);
-    printf("Cidade: %s\n", &cidade2);
+    printf("Código: %s\n", codigo2);
+    printf("Estado: %s\n", estado2);
+    printf("Cidade: %s\n", cidade2);
     printf("População: %d\n", populacao2);
     printf("Área em km: %.3fkm²\n", area2);
     printf("PIB: %.3f mil de reais\n", PIB2);
